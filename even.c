@@ -7,9 +7,9 @@ int main(void)
 	scanf("%i", &a);
 
 	if (a%2==0)
-        printf("%d is an even number\n", a);
+        printf("%d is an Even number\n", a);
 	else
-		printf("%d is an odd number\n", a);
+		printf("%d is an Odd number\n", a);
 
 	return 0;
 }
