@@ -4,7 +4,7 @@ int main()
 {
    int n, sum = 0, c, value,pro=1;
 
-   printf("Enter the number of integers you want to add\n");
+   printf("Enter the number of integers you want to add !! \n");
    scanf("%d", &n);
 
    printf("Enter %d integers\n",n);
